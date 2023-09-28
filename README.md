@@ -3,7 +3,7 @@ I am a PhD student majoring in systems engineering at [University of Virginia](h
 
 
 <p align="center">
-<img src="https://github.com/jsh980210/figure/blob/main/photo.JPG" width="200" height="200" border="10"/>
+<img src="https://github.com/jsh980210/jsh980210.github.io/blob/main/photo-min.JPG" width="200" height="200" border="10"/>
 </p>
 
 ## Education
