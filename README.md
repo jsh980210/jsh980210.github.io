@@ -1,5 +1,6 @@
 # Sihang Jiang's homepage
-I am a PhD student majoring in systems engineering at [University of Virginia](https://engineering.virginia.edu/departments/systems-and-information-engineering), advised by professor [Donald Brown](https://datascience.virginia.edu/people/donald-brown).
+I am a PhD student majoring in systems engineering at [University of Virginia](https://engineering.virginia.edu/departments/systems-and-information-engineering), advised by professor [Donald Brown](https://datascience.virginia.edu/people/donald-brown).\
+My research interest includes Bayesian machine learning, MCMC, data science techniques in bioinformatics and bayesian statistics. \
 
 
 <p align="center">
