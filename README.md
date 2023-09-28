@@ -38,7 +38,6 @@ Before I started my PhD program, I got my MS in [financial mathematics](https://
 - PHASTR: Is Long COVID associated with higher mortality rate? (August 2023)
 - PASC Query: The relationship between social determinants of health and Long COVID hotspots in the United States (May 2023)
 
-- 
 
 
 
