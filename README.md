@@ -15,6 +15,14 @@ I am a PhD student majoring in systems engineering at [University of Virginia](h
 - PhD, systems engineering, University of Virginia, Charlottesville, VA (2021-present)
 - MS, Financial Mathematics, Johns Hopkins University, Baltimore, MD (2019-2020)
 - BS, Applied Mathematics, Xiamen University, Xiamen, China (2015-2019)
+
 ## Experience
+
+- Research Assistant, University of Virginia (August 2021-present)
+- Teaching Assistant, University of Virginia (January 2021-present)
+
+
 ## Publication
+- [Vital Measurements of Hospitalized COVID-19 Patients as a Predictor of Long COVID: An EHR-based Cohort Study from the RECOVER Program in N3C](https://ieeexplore.ieee.org/abstract/document/9995311), 2022 IEEE International Conference on
+Bioinformatics and Biomedicine (BIBM), Las Vegas, NV, USA, 2022
 
