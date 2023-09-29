@@ -1,5 +1,5 @@
 # Sihang Jiang's homepage
-I am a PhD student majoring in systems engineering at [University of Virginia](https://engineering.virginia.edu/departments/systems-and-information-engineering), advised by professor [Donald Brown](https://datascience.virginia.edu/people/donald-brown). My research interest includes Bayesian machine learning, MCMC, data science techniques in bioinformatics and Bayesian statistics, and my recent projects mainly focus on [Long COVID and COVID related healthcare problems](https://datascience.virginia.edu/news/uva-among-national-leaders-collaborations-publications-covid-19), led by [UVA iTHRIV](https://www.ithriv.org/logic-liai) as a part of [N3C research](https://covid.cd2h.org/). 
+I am a PhD student majoring in systems engineering at [University of Virginia](https://engineering.virginia.edu/departments/systems-and-information-engineering), advised by professor [Donald Brown](https://datascience.virginia.edu/people/donald-brown). My research interest includes Bayesian machine learning, MCMC, data science techniques in bioinformatics and Bayesian statistics, and my recent projects mainly focus on [Long COVID and COVID related healthcare problems](https://datascience.virginia.edu/news/uva-among-national-leaders-collaborations-publications-covid-19), led by [UVA iTHRIV](https://www.ithriv.org/logic-liai) as a part of [N3C research](https://covid.cd2h.org/), a database with more than 20 million patients and more than 20 billion rows of electronic health record data. 
 Before I started my PhD program, I got my MS in [financial mathematics](https://engineering.jhu.edu/ams/) at Johns Hopkins University, and BS in applied mathematics at [Xiamen University](https://en.xmu.edu.cn/main.htm). Some major courses include advanced linear algebra, real analysis, introduction to topology, introduction to analytic geometry, stochastic processes, introduction to Bayesian statistics, statistical theory, Monte Carlo methods, investment science, introduction to financial derivatives.
 
 
@@ -11,6 +11,9 @@ Before I started my PhD program, I got my MS in [financial mathematics](https://
 - [Google Scholar](https://scholar.google.com/citations?user=UqKNRPsAAAAJ&hl=en)
 - [Linkedin](https://www.linkedin.com/in/sihangjiang/)
 - [Github](https://github.com/jsh980210)
+
+## Skills
+Python, R, Matlab, SQL, machine learning, Bayesian statistics
 
 ## Education
 - PhD, Systems Engineering, University of Virginia, Charlottesville, VA (2021-present)
