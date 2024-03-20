@@ -35,6 +35,7 @@ Python, R, Matlab, SQL, machine learning, Bayesian statistics
 - [An application of the partially observed Markov process in the analysis of transmission dynamics of COVID-19 via wastewater](https://ieeexplore.ieee.org/abstract/document/9483793), 2021 Systems and Information Engineering Design Symposium (SIEDS), Charlottesville, VA, USA, 2021
 - [Vital Measurements of Hospitalized COVID-19 Patients as a Predictor of Long COVID: An EHR-based Cohort Study from the RECOVER Program in N3C](https://ieeexplore.ieee.org/abstract/document/9995311), 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Las Vegas, NV, USA, 2022
 - [Investigating the Impact of Temporal Labeling of Emergency Department Visits for COVID-19: Comparing Healthcare Disparities Analyses Using Comprehensive, Single-Site Data with National COVID Cohort Collaborative (N3C) Data](https://ieeexplore.ieee.org/abstract/document/10137801), 2023 Systems and Information Engineering Design Symposium (SIEDS), Charlottesville, VA, USA, 2023
+- [A Bayesian Hierarchical Analysis on the Disparity of Emergency Department Visits for COVID-19: A Cohort Study Using National COVID Cohort Collaborative (N3C) Data](https://ieeexplore.ieee.org/document/10459884), 2023 International Conference on Machine Learning and Applications (ICMLA), Jacksonville, FL, USA, 2023
 
 ## Projects
 - PASC Query: Characterization of PASC related medication (Nov. 2023, to be done)
